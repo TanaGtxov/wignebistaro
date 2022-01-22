@@ -21,7 +21,7 @@
             android:layout_width="170dp"
             android:layout_height="200dp"
             android:layout_weight="1"
-            android:background="@drawable/weqwlehqw"/>
+            android:background="@drawable/chavchavadzephoto"/>
     </LinearLayout>
 
     <LinearLayout
