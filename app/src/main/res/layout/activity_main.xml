@@ -24,6 +24,7 @@
                 android:layout_width="170dp"
                 android:layout_height="250dp"
                 android:layout_marginEnd="30dp"
+                android:id="@+id/chavchavadzebtn_main"
                 android:background="@drawable/pkjweio">
 
             </ImageButton>
@@ -31,6 +32,7 @@
             <ImageButton
                 android:layout_width="170dp"
                 android:layout_height="250dp"
+                android:id="@+id/orbeliani_main"
                 android:background="@drawable/edqwewq">
 
             </ImageButton>
@@ -47,6 +49,7 @@
                 android:layout_width="170dp"
                 android:layout_height="250dp"
                 android:layout_marginEnd="30dp"
+                android:id="@+id/dochanashvili_main"
                 android:background="@drawable/maxsredefault">
 
             </ImageButton>
