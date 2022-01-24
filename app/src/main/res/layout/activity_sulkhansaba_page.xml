@@ -56,6 +56,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/bpg_nino_mtavruli_bold"
             android:text="წაკითხვა"
+            android:id="@+id/sulkhansaba_toread"
             android:backgroundTint="#2196F3"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
