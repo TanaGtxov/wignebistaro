@@ -8,7 +8,7 @@ import com.example.myapplication.fragments.*
 class mgzavriswerilebi_adapter(activity:FragmentActivity) : FragmentStateAdapter(activity) {
 
     override fun getItemCount(): Int {
-       return 2
+       return 4
     }
 
     override fun createFragment(position: Int): Fragment {
