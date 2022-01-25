@@ -2,12 +2,25 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#C3BA9A">
+    android:background="#C3B688">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/bpg_nino_mtavruli_bold"
+        android:gravity="center"
+        android:text="პირველი თავი"
+        android:textSize="20sp">
+
+    </TextView>
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif"
         android:padding="15dp"
         android:text="@string/mgzavriswerilebitext1" />
 </RelativeLayout>
