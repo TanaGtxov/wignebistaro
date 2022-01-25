@@ -34,6 +34,7 @@
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:hint="პაროლი"
+            android:inputType="textPassword"
             android:layout_marginTop="50dp"/>
 
         <TextView
