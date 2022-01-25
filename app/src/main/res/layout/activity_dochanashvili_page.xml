@@ -28,6 +28,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:layout_marginTop="230dp"
+
         android:orientation="horizontal">
 
         <TextView
@@ -35,10 +36,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/bpg_nino_mtavruli_bold"
+            android:text="@string/Winasityvaoba_Dochanashvili"
             android:padding="15dp"
-            android:text="ljkwehqoweojilwqhewqghieuqwghjkldhqjiowehiuowqegqwijkhbekjqw3geiqwgeiowqtg"
             android:textColor="@color/white"
-            android:textSize="25sp">
+            android:textSize="19sp">
 
         </TextView>
 
