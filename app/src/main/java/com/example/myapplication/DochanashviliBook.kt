@@ -7,7 +7,7 @@ import com.example.myapplication.adapters.dochanashvili_adapter
 import com.example.myapplication.adapters.mgzavriswerilebi_adapter
 
 class DochanashviliBook : AppCompatActivity() {
-    private lateinit var viewpager_dochanashvili : ViewPager2
+    private lateinit var viewpager_dochanashvili: ViewPager2
     private lateinit var dochanashvili_adapter: dochanashvili_adapter
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:background="@drawable/pagerground">
+        android:background="@drawable/mainbackground">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -25,7 +25,7 @@
                 android:layout_height="250dp"
                 android:layout_marginEnd="30dp"
                 android:id="@+id/chavchavadzebtn_main"
-                android:background="@drawable/pkjweio">
+                android:background="@drawable/mgzavriswerilebiphoto">
 
             </ImageButton>
 
@@ -33,7 +33,7 @@
                 android:layout_width="170dp"
                 android:layout_height="250dp"
                 android:id="@+id/orbeliani_main"
-                android:background="@drawable/edqwewq">
+                android:background="@drawable/sulkhansabaphoto">
 
             </ImageButton>
         </LinearLayout>
@@ -50,14 +50,14 @@
                 android:layout_height="250dp"
                 android:layout_marginEnd="30dp"
                 android:id="@+id/dochanashvili_main"
-                android:background="@drawable/maxsredefault">
+                android:background="@drawable/dochanshviliphoto">
 
             </ImageButton>
 
             <ImageButton
                 android:layout_width="170dp"
                 android:layout_height="250dp"
-                android:background="@drawable/ewqrqwwrq">
+                android:background="@drawable/igiphoto">
 
             </ImageButton>
         </LinearLayout>
@@ -73,14 +73,14 @@
                 android:layout_width="170dp"
                 android:layout_height="250dp"
                 android:layout_marginEnd="30dp"
-                android:background="@drawable/ewqeq3">
+                android:background="@drawable/aludaphoto">
 
             </ImageButton>
 
             <ImageButton
                 android:layout_width="170dp"
                 android:layout_height="260dp"
-                android:background="@drawable/rqeq">
+                android:background="@drawable/gamzrdeliphoto">
 
             </ImageButton>
         </LinearLayout>

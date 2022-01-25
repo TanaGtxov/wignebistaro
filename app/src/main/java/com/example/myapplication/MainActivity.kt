@@ -9,7 +9,7 @@ import android.widget.ImageButton
 class MainActivity : AppCompatActivity() {
     lateinit var chavchavadzebtn_main: ImageButton
     lateinit var orbeliani_main: ImageButton
-    lateinit var dochanashvili_main:Image
+    lateinit var dochanashvili_main: Image
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)

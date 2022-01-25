@@ -12,7 +12,7 @@ class sulkhansaba_adapter(activity: FragmentActivity) : FragmentStateAdapter(act
     }
 
     override fun createFragment(position: Int): Fragment {
-        return when(position){
+        return when (position) {
 
             0 -> firstpage_sulkhansaba()
             1 -> secondpage_sulkhansaba()

@@ -6,7 +6,7 @@ import androidx.viewpager2.widget.ViewPager2
 import com.example.myapplication.adapters.mgzavriswerilebi_adapter
 
 class MgzavrisWerilebiBook : AppCompatActivity() {
-    private lateinit var viewpager_mgzavriswerilebi : ViewPager2
+    private lateinit var viewpager_mgzavriswerilebi: ViewPager2
     private lateinit var mgzavriswerilebi_adapter: mgzavriswerilebi_adapter
 
     override fun onCreate(savedInstanceState: Bundle?) {

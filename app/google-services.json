@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "972161881216",
-    "firebase_url": "https://wignebistaro-fd732-default-rtdb.europe-west1.firebasedatabase.app",
-    "project_id": "wignebistaro-fd732",
-    "storage_bucket": "wignebistaro-fd732.appspot.com"
+    "project_number": "490821096872",
+    "firebase_url": "https://finalurebi-1d07d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "finalurebi-1d07d",
+    "storage_bucket": "finalurebi-1d07d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:972161881216:android:3dd5a8d7073b1706d40265",
+        "mobilesdk_app_id": "1:490821096872:android:1ed56b48a4770f3d80b99d",
         "android_client_info": {
           "package_name": "com.example.myapplication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "972161881216-n2jdnkh61cosufrt80cg8dtg2ehsj589.apps.googleusercontent.com",
+          "client_id": "490821096872-fv1kmb28tmloaes4r3ocqgvq68uvfq61.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBQiZJHgvqXh1DEey62rVMVNov7EP0t5JM"
+          "current_key": "AIzaSyCYF7TfxkB6OXN666IholdnXt_AQZr0Ca0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "972161881216-n2jdnkh61cosufrt80cg8dtg2ehsj589.apps.googleusercontent.com",
+              "client_id": "490821096872-fv1kmb28tmloaes4r3ocqgvq68uvfq61.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

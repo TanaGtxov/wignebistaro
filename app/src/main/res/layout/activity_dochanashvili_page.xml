@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/oiehwqkeq"
+    android:background="@drawable/purplebackgroundphoto"
     tools:context=".DochanashviliPage">
 
     <LinearLayout
@@ -20,7 +20,7 @@
             android:layout_width="170dp"
             android:layout_height="200dp"
             android:layout_weight="1"
-            android:background="@drawable/qwrqw"/>
+            android:background="@drawable/dochanashvilipagephoto"/>
     </LinearLayout>
 
     <LinearLayout

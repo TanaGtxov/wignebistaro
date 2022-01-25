@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.widget.Button
 
 class MgzavrisWerilebi : AppCompatActivity() {
-    lateinit var mgzavriswerilebi_toread : Button
+    lateinit var mgzavriswerilebi_toread: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -16,9 +16,9 @@ class MgzavrisWerilebi : AppCompatActivity() {
 
 
 
-        mgzavriswerilebi_toread.setOnClickListener(){
+        mgzavriswerilebi_toread.setOnClickListener() {
 
-            var mintent = Intent(this,MgzavrisWerilebiBook::class.java)
+            var mintent = Intent(this, MgzavrisWerilebiBook::class.java)
             startActivity(mintent)
 
         }

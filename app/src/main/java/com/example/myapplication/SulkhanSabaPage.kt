@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.widget.Button
 
 class SulkhanSabaPage : AppCompatActivity() {
-    lateinit var sulkhansaba_toread : Button
+    lateinit var sulkhansaba_toread: Button
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_sulkhansaba_page)
@@ -14,7 +14,7 @@ class SulkhanSabaPage : AppCompatActivity() {
         sulkhansaba_toread = findViewById(R.id.sulkhansaba_toread)
 
 
-        sulkhansaba_toread.setOnClickListener(){
+        sulkhansaba_toread.setOnClickListener() {
 
             var qintent = Intent(this, SulkhanSabaBook::class.java)
             startActivity(qintent)
