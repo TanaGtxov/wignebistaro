@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/img"
+    android:background="@drawable/wtweqqw"
     tools:context=".fragments.fragmentRegistration">
 
     <LinearLayout
@@ -15,13 +15,14 @@
         android:orientation="vertical">
 
         <TextView
-            android:layout_marginTop="50dp"
             android:layout_width="wrap_content"
-            android:textColor="@color/teal_200"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
+            android:layout_marginTop="50dp"
             android:layout_marginBottom="50dp"
+            android:fontFamily="@font/bpg_nino_mtavruli_bold"
             android:text="რეგისტრაცია"
+            android:textColor="@color/teal_200"
             android:textSize="40sp" />
 
 
@@ -29,31 +30,36 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
+            android:layout_marginTop="70dp"
             android:weightSum="2">
 
             <EditText
                 android:id="@+id/etName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
                 android:layout_marginBottom="20dp"
-                android:textColorHint="#7734EF"
-                android:textColor="@color/teal_200"
                 android:layout_weight="1"
+                android:fontFamily="@font/bpg_nino_mtavruli_bold"
                 android:hint="სახელი"
-                android:textSize="20sp"
-                android:layout_marginEnd="10dp"/>
+                android:textColor="@color/teal_200"
+                android:textColorHint="@color/teal_200"
+                android:backgroundTint="@color/teal_200"
+                android:textSize="20sp" />
 
             <EditText
                 android:id="@+id/etSurName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColorHint="#7734EF"
-                android:textColor="@color/teal_200"
+                android:layout_marginStart="10dp"
                 android:layout_marginBottom="20dp"
                 android:layout_weight="1"
+                android:fontFamily="@font/bpg_nino_mtavruli_bold"
                 android:hint="გვარი"
-                android:textSize="20sp"
-                android:layout_marginStart="10dp"/>
+                android:textColor="@color/teal_200"
+                android:textColorHint="@color/teal_200"
+                android:backgroundTint="@color/teal_200"
+                android:textSize="20sp" />
 
         </LinearLayout>
 
@@ -62,28 +68,33 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
-            android:textColor="@color/teal_200"
-            android:textColorHint="#7734EF"
+            android:fontFamily="@font/bpg_nino_mtavruli_bold"
             android:hint="მეილი"
+            android:textColor="@color/teal_200"
+            android:backgroundTint="@color/teal_200"
+            android:textColorHint="@color/teal_200"
             android:textSize="20sp" />
 
         <EditText
             android:id="@+id/etPass1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColorHint="#7734EF"
-            android:textColor="@color/teal_200"
+            android:fontFamily="@font/bpg_nino_mtavruli_bold"
             android:hint="პაროლი"
             android:inputType="textPassword"
+            android:textColor="@color/teal_200"
+            android:textColorHint="@color/teal_200"
+            android:backgroundTint="@color/teal_200"
             android:textSize="20sp" />
 
         <TextView
             android:id="@+id/tvAuth"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="#7734EF"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/bpg_nino_mtavruli_bold"
             android:text="უკვე გაქვთ ანგარიში? გაიარეთ ავტორიზაცია"
-            android:layout_marginTop="20dp"/>
+            android:textColor="@color/teal_200" />
 
         <Button
             android:id="@+id/btnReg"
@@ -91,8 +102,10 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="50dp"
-            android:textColor="@color/teal_200"
+            android:layout_marginVertical="100dp"
+            android:fontFamily="@font/bpg_nino_mtavruli_bold"
             android:text="რეგისტრაცია"
+            android:textColor="@color/teal_200"
             android:textSize="20sp" />
 
 
